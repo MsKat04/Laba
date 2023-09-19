@@ -45,11 +45,12 @@
 
 ```py
 
-print("Hello Word")
+print("Hello World")
 
 ```
 
-![image](https://github.com/MsKat04/Laba/assets/116561169/4758f8e3-0da7-451c-9618-d35a64f3a3f5)
+![image](https://github.com/MsKat04/Laba/assets/116561169/0d6e9ebf-a1f7-4c08-b935-86bc34b02e59)
+
 
 
 
