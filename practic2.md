@@ -56,7 +56,7 @@ import gspread
 import numpy as np
 gc = gspread.service_account(filename='myprojecteb.json')
 sh = gc.open("UnityWorkshop2")
-price = np.random.randint(10, 200, 11)
+price = np.random.randint(-50, 200, 11)
 mon = list(range(1,11))
 i = 0
 while i <= len(mon):
@@ -74,7 +74,8 @@ while i <= len(mon):
 ```
 
 
-![image](https://github.com/MsKat04/Laba/assets/116561169/03a146c8-184d-4115-a894-21feff33393a)
+![image](https://github.com/MsKat04/Laba/assets/116561169/05a2cade-ee57-49b0-9da2-8144a97f447e)
+
 
 
 Задание 3
